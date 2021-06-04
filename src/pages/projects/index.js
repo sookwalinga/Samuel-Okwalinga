@@ -17,7 +17,7 @@ class Projects extends Component {
           <Helmet>
                 <meta charSet="utf-8" />
                 <title>Project | Samuel Okwalinga</title>
-                <link rel="canonical" href="http://motasimfoad.com/project"/>
+                <link rel="canonical" href="https://samuelokwalinga.netlify.app/"/>
                 <meta name="description" content="Samuel Okwalinga | Mobile App Developer | Web App Developer | Software Developer" />
           </Helmet>
            <Animate to="1" from="0" attributeName="opacity">

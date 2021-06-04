@@ -29,7 +29,7 @@ function Home() {
          <Helmet>
                   <meta charSet="utf-8" />
                   <title>Home | Samuel Okwalinga</title>
-                  <link rel="canonical" href="http://motasimfoad.com/home" />
+                  <link rel="canonical" href="https://samuelokwalinga.netlify.app/" />
                   <meta name="description" content="Samuel Okwalinga | Mobile App Developer | Web App Developer | Software Developer" />
          </Helmet>
           <Animate to="1" from="0" attributeName="opacity">
