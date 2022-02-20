@@ -1,17 +1,26 @@
-  .home-right{
-    height: 100%;
-  }
+.home-right {
+  height: 100%;
+}
 
-  .home-right-main{
-    height: 100%;
-  }
+.home-right-main {
+  height: 100%;
+}
 
-  .home-right-main-img{
-      height: 65vh;
-      margin: auto;    
-      display: block;
-  }
+.home-right-main-img {
+  height: 65vh;
+  margin: auto;
+  display: block;
+  border-radius: '50rem';
+}
 
-  .home-right-footer{
-     width: 100%;
+.home-right-footer {
+  width: 100%;
+}
+
+@media screen and (max-width: 480px) {
+  .home-right-main-img {
+    height: 35vh;
+    margin: auto;
+    display: block;
   }
+}
