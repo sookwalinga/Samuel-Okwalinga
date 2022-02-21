@@ -20,7 +20,7 @@ export default function Nav() {
         <Route path="/about" component={About} />
         <Route path="/contact" component={Contact} />
         <Route path="/project" component={Project} />
-        <Route path="*" component={Home} />
+        <Route path="*" component={Loading} />
       </Switch>
     </Router>
   );
