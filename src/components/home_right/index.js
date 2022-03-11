@@ -13,7 +13,7 @@ function Home_Right() {
           <Image
             src={Foad}
             className='home-right-main-img'
-            alt='Image of Samuel Okwalinga'
+            alt='Samuel Okwalinga'
             style={{ borderRadius: '100rem' }}
           />
         </Col>

@@ -43,7 +43,7 @@ function SocialIcons() {
         <FontAwesomeIcon className='insta' icon={faMedium} />
       </a>
       <a
-        href='https://www.linkedin.com/in/samuel-okwalinga/?originalSubdomain=bd'
+        href='https://www.linkedin.com/in/sookwalinga/?originalSubdomain=bd'
         target='_blank'
         rel='noopener noreferrer'
       >

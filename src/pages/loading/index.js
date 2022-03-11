@@ -31,7 +31,7 @@ class Loading extends Component {
          <Helmet>
                 <meta charSet="utf-8" />
                 <title>Samuel Okwalinga</title>
-                <link rel="canonical" href="https://samuelokwalinga.netlify.app/" />
+                <link rel="canonical" href="https://sookwalinga.netlify.app/" />
                 <meta name="description" content="Samuel Okwalinga | Mobile App Developer | Web App Developer | Software Developer" />
          </Helmet>
         <div className="Loading-header">

@@ -1,76 +1,75 @@
 {
-    "data": [
-      {
-        "id" : 0,
-        "name": "Math Quiz",
-        "tools": "Android Studio, Java ",
-        "link": "https://samuelokwalinga.github.io/myPortfolio/portfolio-details-mathquiz.html",
-        "image": [
-            "https://samuelokwalinga.github.io/myPortfolio/assets/img/math-quiz%20(1).jpg",
-            "https://samuelokwalinga.github.io/myPortfolio/assets/img/math-quiz%20(2).jpg",
-            "https://samuelokwalinga.github.io/myPortfolio/assets/img/math-quiz%20(3).jpg",
-            "https://samuelokwalinga.github.io/myPortfolio/assets/img/math-quiz%20(4).jpg",
-            "https://samuelokwalinga.github.io/myPortfolio/assets/img/math-quiz%20(5).jpg"
-        ]
-      },
-      {
-        "id" : 1,
-        "name": "Ufarm",
-        "tools": "Javascript, Bootstraps, Nodejs, PUG, MongoDB",
-        "link": "https://samuelokwalinga.github.io/myPortfolio/portfolio-details-ufarm.html",
-        "image": [
-            "https://samuelokwalinga.github.io/myPortfolio/assets/img/portfolio/ufarm.jpg",
-            "https://samuelokwalinga.github.io/myPortfolio/assets/img/ufarm1.png",
-            "https://samuelokwalinga.github.io/myPortfolio/assets/img/ufarm2.png",
-            "https://samuelokwalinga.github.io/myPortfolio/assets/img/ufarm3.png",
-            "https://samuelokwalinga.github.io/myPortfolio/assets/img/ufarm4.png"
-        ]
-      },
-      {
-        "id" : 2,
-        "name": "Retrofit Android App",
-        "tools": "Android Studio, Java, JSON Placeholder API, Retrofit",
-        "link": "https://samuelokwalinga.github.io/myPortfolio/portfolio-details-retrofit.html",
-        "image": [
-          "https://samuelokwalinga.github.io/myPortfolio/assets/img/retrofit1%20(1).jpg",
-          "https://samuelokwalinga.github.io/myPortfolio/assets/img/retrofit1%20(2).jpg",
-          "https://samuelokwalinga.github.io/myPortfolio/assets/img/retrofit1%20(3).jpg",
-          "https://samuelokwalinga.github.io/myPortfolio/assets/img/retrofit1%20(4).jpg",
-          "https://samuelokwalinga.github.io/myPortfolio/assets/img/retrofit1%20(5).jpg",
-          "https://samuelokwalinga.github.io/myPortfolio/assets/img/retrofit1%20(6).jpg"
-        ]
-      },
-      {
-        "id" : 3,
-        "name": "Javascript Calculator",
-        "tools": "Javascript, HTML5, CSS3",
-        "link": "https://sookwalinga.github.io/js-calculator/",
-        "image": [
-          "https://samuelokwalinga.github.io/myPortfolio/assets/img/js-calculator.png"
-        ]
-      },
-      {
-        "id" : 4,
-        "name": "Friends Android App",
-        "tools": "Android Studio, Java, Firebase",
-        "link": "https://samuelokwalinga.github.io/myPortfolio/portfolio-details-friends.html",
-        "image": [
-          "https://samuelokwalinga.github.io/myPortfolio/assets/img/friends%20(1).jpg",
-          "https://samuelokwalinga.github.io/myPortfolio/assets/img/friends%20(2).jpg",
-          "https://samuelokwalinga.github.io/myPortfolio/assets/img/friends%20(3).jpg",
-          "https://samuelokwalinga.github.io/myPortfolio/assets/img/friends%20(4).jpg",
-          "https://samuelokwalinga.github.io/myPortfolio/assets/img/friends%20(5).jpg"
-        ]
-      }     ,
-      {
-        "id" : 5,
-        "name": "Telewitnessing",
-        "tools": "Android Studio, Java, SQLite",
-        "link": "https://samuelokwalinga.github.io/myPortfolio/portfolio-details-friends.html",
-        "image": [
-          "https://samuelokwalinga.github.io/myPortfolio/assets/img/portfolio/telewitnessing.jpg"
-        ]
-      }     
-    ]
-  }
-  
+  "data": [
+    {
+      "id": 0,
+      "name": "Math Quiz",
+      "tools": "Android Studio, Java ",
+      "link": "https://sookwalinga.github.io/myPortfolio/portfolio-details-mathquiz.html",
+      "image": [
+        "https://sookwalinga.github.io/myPortfolio/assets/img/math-quiz%20(1).jpg",
+        "https://sookwalinga.github.io/myPortfolio/assets/img/math-quiz%20(2).jpg",
+        "https://sookwalinga.github.io/myPortfolio/assets/img/math-quiz%20(3).jpg",
+        "https://sookwalinga.github.io/myPortfolio/assets/img/math-quiz%20(4).jpg",
+        "https://sookwalinga.github.io/myPortfolio/assets/img/math-quiz%20(5).jpg"
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Ufarm",
+      "tools": "Javascript, Bootstraps, Nodejs, PUG, MongoDB",
+      "link": "https://sookwalinga.github.io/myPortfolio/portfolio-details-ufarm.html",
+      "image": [
+        "https://sookwalinga.github.io/myPortfolio/assets/img/portfolio/ufarm.jpg",
+        "https://sookwalinga.github.io/myPortfolio/assets/img/ufarm1.png",
+        "https://sookwalinga.github.io/myPortfolio/assets/img/ufarm2.png",
+        "https://sookwalinga.github.io/myPortfolio/assets/img/ufarm3.png",
+        "https://sookwalinga.github.io/myPortfolio/assets/img/ufarm4.png"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Retrofit Android App",
+      "tools": "Android Studio, Java, JSON Placeholder API, Retrofit",
+      "link": "https://sookwalinga.github.io/myPortfolio/portfolio-details-retrofit.html",
+      "image": [
+        "https://sookwalinga.github.io/myPortfolio/assets/img/retrofit1%20(1).jpg",
+        "https://sookwalinga.github.io/myPortfolio/assets/img/retrofit1%20(2).jpg",
+        "https://sookwalinga.github.io/myPortfolio/assets/img/retrofit1%20(3).jpg",
+        "https://sookwalinga.github.io/myPortfolio/assets/img/retrofit1%20(4).jpg",
+        "https://sookwalinga.github.io/myPortfolio/assets/img/retrofit1%20(5).jpg",
+        "https://sookwalinga.github.io/myPortfolio/assets/img/retrofit1%20(6).jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Javascript Calculator",
+      "tools": "Javascript, HTML5, CSS3",
+      "link": "https://sookwalinga.github.io/js-calculator/",
+      "image": [
+        "https://sookwalinga.github.io/myPortfolio/assets/img/js-calculator.png"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Friends Android App",
+      "tools": "Android Studio, Java, Firebase",
+      "link": "https://sookwalinga.github.io/myPortfolio/portfolio-details-friends.html",
+      "image": [
+        "https://sookwalinga.github.io/myPortfolio/assets/img/friends%20(1).jpg",
+        "https://sookwalinga.github.io/myPortfolio/assets/img/friends%20(2).jpg",
+        "https://sookwalinga.github.io/myPortfolio/assets/img/friends%20(3).jpg",
+        "https://sookwalinga.github.io/myPortfolio/assets/img/friends%20(4).jpg",
+        "https://sookwalinga.github.io/myPortfolio/assets/img/friends%20(5).jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Telewitnessing",
+      "tools": "Android Studio, Java, SQLite",
+      "link": "https://sookwalinga.github.io/myPortfolio/portfolio-details-friends.html",
+      "image": [
+        "https://sookwalinga.github.io/myPortfolio/assets/img/portfolio/telewitnessing.jpg"
+      ]
+    }
+  ]
+}
