@@ -1,6 +1,6 @@
 import React from 'react';
 import '../home_right/style.css';
-import Foad from '../../assets/img/foad35.png';
+import Foad from '../../assets/img/profilepic.png';
 import { Container, Row, Col, Image } from 'react-bootstrap';
 import SocialIcons from '../social_icons';
 

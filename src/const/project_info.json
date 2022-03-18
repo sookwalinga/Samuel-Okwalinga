@@ -2,22 +2,9 @@
   "data": [
     {
       "id": 0,
-      "name": "Math Quiz",
-      "tools": "Android Studio, Java ",
-      "link": "https://sookwalinga.github.io/myPortfolio/portfolio-details-mathquiz.html",
-      "image": [
-        "https://sookwalinga.github.io/myPortfolio/assets/img/math-quiz%20(1).jpg",
-        "https://sookwalinga.github.io/myPortfolio/assets/img/math-quiz%20(2).jpg",
-        "https://sookwalinga.github.io/myPortfolio/assets/img/math-quiz%20(3).jpg",
-        "https://sookwalinga.github.io/myPortfolio/assets/img/math-quiz%20(4).jpg",
-        "https://sookwalinga.github.io/myPortfolio/assets/img/math-quiz%20(5).jpg"
-      ]
-    },
-    {
-      "id": 1,
       "name": "Ufarm",
       "tools": "Javascript, Bootstraps, Nodejs, PUG, MongoDB",
-      "link": "https://sookwalinga.github.io/myPortfolio/portfolio-details-ufarm.html",
+      "link": "https://ufarm-massajja.herokuapp.com/",
       "image": [
         "https://sookwalinga.github.io/myPortfolio/assets/img/portfolio/ufarm.jpg",
         "https://sookwalinga.github.io/myPortfolio/assets/img/ufarm1.png",
@@ -27,10 +14,28 @@
       ]
     },
     {
-      "id": 2,
+      "id": 1,
+      "name": "Javascript Calculator",
+      "tools": "Javascript, HTML5, CSS3",
+      "link": "https://sookwalinga.github.io/js-calculator/",
+      "image": [
+        "https://sookwalinga.github.io/myPortfolio/assets/img/js-calculator.png"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Telewitnessing",
+      "tools": "Android Studio, Java, SQLite",
+      "link": "https://drive.google.com/file/d/1a_-ncLrYTKvfcocQ8d-v9dEDJCzZa5jr/view?usp=sharing",
+      "image": [
+        "https://sookwalinga.github.io/myPortfolio/assets/img/portfolio/telewitnessing.jpg"
+      ]
+    },
+    {
+      "id": 4,
       "name": "Retrofit Android App",
       "tools": "Android Studio, Java, JSON Placeholder API, Retrofit",
-      "link": "https://sookwalinga.github.io/myPortfolio/portfolio-details-retrofit.html",
+      "link": "https://drive.google.com/file/d/12ASzrwNUFXxg0PPwV7AEWVOeIpNn9zgp/view",
       "image": [
         "https://sookwalinga.github.io/myPortfolio/assets/img/retrofit1%20(1).jpg",
         "https://sookwalinga.github.io/myPortfolio/assets/img/retrofit1%20(2).jpg",
@@ -41,34 +46,29 @@
       ]
     },
     {
-      "id": 3,
-      "name": "Javascript Calculator",
-      "tools": "Javascript, HTML5, CSS3",
-      "link": "https://sookwalinga.github.io/js-calculator/",
+      "id": 2,
+      "name": "Math Quiz",
+      "tools": "Android Studio, Java ",
+      "link": "#",
       "image": [
-        "https://sookwalinga.github.io/myPortfolio/assets/img/js-calculator.png"
+        "https://sookwalinga.github.io/myPortfolio/assets/img/math-quiz%20(1).jpg",
+        "https://sookwalinga.github.io/myPortfolio/assets/img/math-quiz%20(2).jpg",
+        "https://sookwalinga.github.io/myPortfolio/assets/img/math-quiz%20(3).jpg",
+        "https://sookwalinga.github.io/myPortfolio/assets/img/math-quiz%20(4).jpg",
+        "https://sookwalinga.github.io/myPortfolio/assets/img/math-quiz%20(5).jpg"
       ]
     },
     {
-      "id": 4,
+      "id": 5,
       "name": "Friends Android App",
       "tools": "Android Studio, Java, Firebase",
-      "link": "https://sookwalinga.github.io/myPortfolio/portfolio-details-friends.html",
+      "link": "#",
       "image": [
         "https://sookwalinga.github.io/myPortfolio/assets/img/friends%20(1).jpg",
         "https://sookwalinga.github.io/myPortfolio/assets/img/friends%20(2).jpg",
         "https://sookwalinga.github.io/myPortfolio/assets/img/friends%20(3).jpg",
         "https://sookwalinga.github.io/myPortfolio/assets/img/friends%20(4).jpg",
         "https://sookwalinga.github.io/myPortfolio/assets/img/friends%20(5).jpg"
-      ]
-    },
-    {
-      "id": 5,
-      "name": "Telewitnessing",
-      "tools": "Android Studio, Java, SQLite",
-      "link": "https://sookwalinga.github.io/myPortfolio/portfolio-details-friends.html",
-      "image": [
-        "https://sookwalinga.github.io/myPortfolio/assets/img/portfolio/telewitnessing.jpg"
       ]
     }
   ]
