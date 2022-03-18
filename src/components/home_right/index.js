@@ -1,6 +1,6 @@
 import React from 'react';
 import '../home_right/style.css';
-import Foad from '../../assets/img/profilepic.png';
+import ProfilePic from '../../assets/img/profilepic.png';
 import { Container, Row, Col, Image } from 'react-bootstrap';
 import SocialIcons from '../social_icons';
 
@@ -11,7 +11,7 @@ function Home_Right() {
         <Col xl={12}>
           <br />
           <Image
-            src={Foad}
+            src={ProfilePic}
             className='home-right-main-img'
             alt='Samuel Okwalinga'
             style={{ borderRadius: '100rem' }}

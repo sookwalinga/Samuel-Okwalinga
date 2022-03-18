@@ -16,7 +16,7 @@ class Contact extends React.Component {
     //--Portfolio website Google analytics--
     //--Replace with your own key !!
     // ReactGa.initialize("UA-154721739-1");
-    // ReactGa.pageview('motasimfoad.com - Contact Screen');
+    // ReactGa.pageview('sookwalinga.netlify.app- Contact Screen');
   }
   //--Portfolio website Google analytics--
 
