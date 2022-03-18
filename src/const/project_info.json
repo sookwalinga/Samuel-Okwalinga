@@ -6,6 +6,15 @@
       "tools": "Typescript, NextJS, Tailwind-CSS, Vercel, Prismic-CMS",
       "link": "https://piclab-gamma.vercel.app/",
       "image": [
+        "https://sookwalinga.github.io/myPortfolio/assets/img/portfolio/green-mile-connection.png"
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Green Mile",
+      "tools": "Javascript, ReactJS, Material-UI, Django, Admin Dashboard",
+      "link": "https://green-mile-connection.netlify.app/",
+      "image": [
         "https://piclab-gamma.vercel.app/_next/image?url=%2Fapple-mac.png&w=1920&q=75"
       ]
     },
