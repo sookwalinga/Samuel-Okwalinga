@@ -2,6 +2,16 @@
   "data": [
     {
       "id": 0,
+      "name": "Piclab",
+      "tools": "Typescript, NextJS, Tailwind-CSS, Vercel, Prismic-CMS",
+      "link": "https://piclab-gamma.vercel.app/",
+      "image": [
+        "https://piclab-gamma.vercel.app/_next/image?url=%2Fapple-mac.png&w=1920&q=75"
+      ]
+    },
+
+    {
+      "id": 1,
       "name": "Ufarm",
       "tools": "Javascript, Bootstraps, Nodejs, PUG, MongoDB",
       "link": "https://ufarm-massajja.herokuapp.com/",
@@ -14,7 +24,7 @@
       ]
     },
     {
-      "id": 1,
+      "id": 2,
       "name": "Javascript Calculator",
       "tools": "Javascript, HTML5, CSS3",
       "link": "https://sookwalinga.github.io/js-calculator/",
@@ -46,7 +56,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": 5,
       "name": "Math Quiz",
       "tools": "Android Studio, Java ",
       "link": "#",
@@ -59,7 +69,7 @@
       ]
     },
     {
-      "id": 5,
+      "id": 6,
       "name": "Friends Android App",
       "tools": "Android Studio, Java, Firebase",
       "link": "#",
