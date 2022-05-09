@@ -20,7 +20,7 @@
     },
 
     {
-      "id": 1,
+      "id": 2,
       "name": "Ufarm",
       "tools": "Javascript, Bootstraps, Nodejs, PUG, MongoDB",
       "link": "https://ufarm-massajja.herokuapp.com/",
@@ -30,15 +30,6 @@
         "https://sookwalinga.github.io/myPortfolio/assets/img/ufarm2.png",
         "https://sookwalinga.github.io/myPortfolio/assets/img/ufarm3.png",
         "https://sookwalinga.github.io/myPortfolio/assets/img/ufarm4.png"
-      ]
-    },
-    {
-      "id": 2,
-      "name": "Javascript Calculator",
-      "tools": "Javascript, HTML5, CSS3",
-      "link": "https://sookwalinga.github.io/js-calculator/",
-      "image": [
-        "https://sookwalinga.github.io/myPortfolio/assets/img/js-calculator.png"
       ]
     },
     {
