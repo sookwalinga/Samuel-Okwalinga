@@ -43,20 +43,6 @@
     },
     {
       "id": 4,
-      "name": "Retrofit Android App",
-      "tools": "Android Studio, Java, JSON Placeholder API, Retrofit",
-      "link": "https://drive.google.com/file/d/12ASzrwNUFXxg0PPwV7AEWVOeIpNn9zgp/view",
-      "image": [
-        "https://sookwalinga.github.io/myPortfolio/assets/img/retrofit1%20(1).jpg",
-        "https://sookwalinga.github.io/myPortfolio/assets/img/retrofit1%20(2).jpg",
-        "https://sookwalinga.github.io/myPortfolio/assets/img/retrofit1%20(3).jpg",
-        "https://sookwalinga.github.io/myPortfolio/assets/img/retrofit1%20(4).jpg",
-        "https://sookwalinga.github.io/myPortfolio/assets/img/retrofit1%20(5).jpg",
-        "https://sookwalinga.github.io/myPortfolio/assets/img/retrofit1%20(6).jpg"
-      ]
-    },
-    {
-      "id": 5,
       "name": "Math Quiz",
       "tools": "Android Studio, Java ",
       "link": "#",
@@ -69,7 +55,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": 5,
       "name": "Friends Android App",
       "tools": "Android Studio, Java, Firebase",
       "link": "#",
